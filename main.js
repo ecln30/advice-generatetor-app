@@ -1,17 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 const id = document.querySelector('.advice-id')
 const advice = document.querySelector('.advice-text')
 
